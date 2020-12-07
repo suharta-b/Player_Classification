@@ -17,7 +17,7 @@
 - Demonstration
 
 
-**Problem Statement**: We have images of four Greatest Indian Cricket players of all time. We have to build a image classification model that can correctly classify these images.
+**Problem Statement**: We have images of four Greatest Indian Cricket players of all time namely Sachin, Sourav, Kohli and Yuvraj. We have to build a image classification model that can correctly classify these images. 
 
 **Dataset Description**: 
 
