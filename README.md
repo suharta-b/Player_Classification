@@ -4,7 +4,7 @@
 ### Content
 - Problem Statement
 - Dataset Description 
-- File Description
+- List of Files
   - Requirements.txt
   - Templates Folder
   - com_in_player_utils Folder
@@ -21,5 +21,7 @@
 
 **Dataset Description**: Collect images of each players and store the images of each players in individual folders. In order to get good performance try to collect as many number of images possible for each class. Make use of image scrapping for collecting large number of images efficiently.
 
-**Requirements**: File contains all the dependencies(libraries) that are required for running this project. In this requirements file I have listed down all the necessary libraries so that one can install them in a single time. It also helps while deploying the project in cloud.
+**Requirements**: File contains all the dependencies (libraries) that are required for running this project. In this requirements file I have listed down all the necessary libraries so that one can install them in a single time. It also helps while deploying the project in cloud.
+
+**How to Run**: 1. Clone this repository. ``` git clone "url" ```
   
