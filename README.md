@@ -4,15 +4,6 @@
 ### Content
 - Problem Statement
 - Dataset Description 
-- List of Files
-  - Requirements.txt
-  - Templates Folder
-  - com_in_player_utils Folder
-  - Basic_cnn.py
-  - LeNet.py
-  - lenet-model.h5
-  - predict.py
-  - clientapp.py
 - How to Run
 - Demonstration
 
@@ -23,7 +14,7 @@
 
 **Requirements**: File contains all the dependencies (libraries) that are required for running this project. In this requirements file I have listed down all the necessary libraries so that one can install them in a single time. It also helps while deploying the project in cloud.
 
-**How to Run**:
+**How to run the project**
 1. Clone this repository. ``` git clone "url" ```
 2. Create a new environment. ``` conda create -n "env_name" ```
 3. Activate the environment. ``` conda activate "env_name" ```
