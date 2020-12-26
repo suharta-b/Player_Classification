@@ -23,9 +23,9 @@
 
 **Requirements**: File contains all the dependencies (libraries) that are required for running this project. In this requirements file I have listed down all the necessary libraries so that one can install them in a single time. It also helps while deploying the project in cloud.
 
-**How to Run**: 1. Clone this repository. ``` git clone "url" ```
-                1. Create a new environment. ``` conda create -n "env_name" ```
-                1. Activate the environment. ``` conda activate "env_name" ```
-                1. Install dependencies. ``` pip install -r requirements.txt ```
-                1. Run the file clientApp.py
+**How to Run**: 1.Clone this repository. ``` git clone "url" ```
+                1.Create a new environment. ``` conda create -n "env_name" ```
+                1.Activate the environment. ``` conda activate "env_name" ```
+                1.Install dependencies. ``` pip install -r requirements.txt ```
+                1.Run the file clientApp.py
   
